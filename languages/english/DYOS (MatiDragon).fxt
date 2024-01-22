@@ -329,20 +329,20 @@ M000093 Look At The Player
 M000094 Look At The Actor
 M000095 Door
 M000096 Open
-M000097 Cerrar
-M000098 Rotar
-M000099 Quitar
-M00009A Reparar
-M00009B Romper
-M00009C Expulsar
-M00009D Bloquar
-M00009E Desbloquear
-M00009F Cofre
-M00009G Maletero
-M00009H Frontal izquierda
-M00009I Frontal derecha
-M00009J Trasera izquierda
-M00009K Trasera derecha
+M000097 Close
+M000098 Rotate
+M000099 Remove
+M00009A Fix
+M00009B Break
+M00009C Eject
+M00009D Lock
+M00009E Unlock
+M00009F Chest
+M00009G Trunk
+M00009H Left Front
+M00009I Right Front
+M00009J Left Rear
+M00009K Right Rear
 M00009L +1
 M00009M +10
 M00009N +100
@@ -355,54 +355,54 @@ M00009T -100
 M00009U -1000
 M00009V -10000
 M00009W -100000
-M00009X Las tareas desactivan a las animaciones y viceversa.
-M00009Y Es necesitado otro actor para esta tarea.
-M00009Z Solo puedes destruir al ultimo actor creado.
-M0000A0 Solo puedes destruir al ultimo vehiculo creado.
-M0000A1 Solo puedes destruir al ultimo objeto creado.
-M0000A2 Dinero
-M0000A3 Cambia presionando para arriba o abajo.
-M0000A4 Cambia presionando para izquierda o derecha.
-M0000A5 Cambia presionando para arriba, abajo, izquierda o derecha.
-M0000A6 Neomatico
-M0000A7 Solidifica para poder ver el cambio.
+M00009X Tasks deactivate animations and vice versa.
+M00009Y Another actor is needed for this task.
+M00009Z You can only destroy the last created actor.
+M0000A0 You can only destroy the last created vehicle.
+M0000A1 You can only destroy the last created object.
+M0000A2 Money
+M0000A3 Switch by pressing up or down.
+M0000A4 Switch by pressing left or right.
+M0000A5 Switch by pressing up, down, left or right.
+M0000A6 Tire
+M0000A7 Solidify to be able to see the change.
 M0000A8 0
 M0000A9 1
 M0000AA 25
 M0000AB 50
 M0000AC 75
 M0000AD 100
-M0000AE Tipo: ~s~<< ~p~Gang9~s~ >>
-M0000AF Tipo: ~s~<< ~p~Gang10~s~ >>
-M0000AG Tipo: ~s~<< ~p~Mujer~s~ >>
+M0000AE Type: ~s~<< ~p~Gang9~s~ >>
+M0000AF Type: ~s~<< ~p~Gang10~s~ >>
+M0000AG Type: ~s~<< ~p~Mujer~s~ >>
 M0000AH Pedestre
-M0000AI Tipo: ~s~<< ~p~Custom~s~ >>
+M0000AI Type:: ~s~<< ~p~Custom~s~ >>
 M0000AJ Vida
 M0000AK Chaleco
-M0000AL Tipo: ~s~<< ~p~Especial~s~ >>
-M0000AM Tipo: ~s~<< ~p~Balla~s~ >>
-M0000AN Tipo: ~s~<< ~p~Grove~s~ >>
-M0000AO Tipo: ~s~<< ~p~Vago~s~ >>
-M0000AP Tipo: ~s~<< ~p~Rifa~s~ >>
-M0000AQ Tipo: ~s~<< ~p~Nangi~s~ >>
-M0000AR Tipo: ~s~<< ~p~Mafia~s~ >>
-M0000AS Tipo: ~s~<< ~p~Triada~s~ >>
-M0000AT Tipo: ~s~<< ~p~Azteca~s~ >>
-M0000AU Tipo: ~s~<< ~p~Hombre~s~ >>
-M0000AV Tipo: ~s~<< ~p~Policia~s~ >>
-M0000AW Cargando...
-M0000AX Tipo: ~s~<< ~p~Bombero~s~ >>
-M0000AY Tipo: ~s~<< ~p~Medico~s~ >>
-M0000AZ Tipo: ~s~<< ~p~Dealer~s~ >>
-M0000B0 Tipo: ~s~<< ~p~Criminal~s~ >>
-M0000B1 Tipo: ~s~<< ~p~Ramera~s~ >>
-M0000B2 Tipo: ~s~<< ~p~Chulo~s~ >>
-M0000B3 Novia 5 con ropa
-M0000B4 Novia 5 sin ropa
-M0000B5 Esta opcion borra todas las cosas establecidas al actor.
+M0000AL Type: ~s~<< ~p~Special~s~ >>
+M0000AM Type: ~s~<< ~p~Ballas~s~ >>
+M0000AN Type: ~s~<< ~p~Groves~s~ >>
+M0000AO Type: ~s~<< ~p~Vagos~s~ >>
+M0000AP Type: ~s~<< ~p~Rifas~s~ >>
+M0000AQ Type: ~s~<< ~p~Nangi~s~ >>
+M0000AR Type: ~s~<< ~p~Mafias~s~ >>
+M0000AS Type: ~s~<< ~p~Triads~s~ >>
+M0000AT Type: ~s~<< ~p~Azteca~s~ >>
+M0000AU Type: ~s~<< ~p~Man~s~ >>
+M0000AV Type: ~s~<< ~p~Cops~s~ >>
+M0000AW Loading...
+M0000AX Type: ~s~<< ~p~Firefighter~s~ >>
+M0000AY Type: ~s~<< ~p~Doctor~s~ >>
+M0000AZ Type: ~s~<< ~p~Dealer~s~ >>
+M0000B0 Type: ~s~<< ~p~Criminal~s~ >>
+M0000B1 Type: ~s~<< ~p~Hooker~s~ >>
+M0000B2 Type: ~s~<< ~p~Pimp~s~ >>
+M0000B3 Girlfriend 5
+M0000B4 Girlfriend 5 Nude
+M0000B5 This option deletes all things set to the actor.
 M0000B6 Melees
-M0000B7 Regalos
-M0000B8 Pistolas
+M0000B7 Gifts
+M0000B8 Pistols
 M0000B9 SMGs
 M0000BA ARs
 M0000BB SRs
