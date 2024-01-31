@@ -323,10 +323,10 @@ M00008X Remove Task
 M00008Y Task
 M00008Z Attack The Player
 M000090 Attack The Actor
-M000091 Point To The Player
-M000092 Point To The Actor
-M000093 Look At The Player
-M000094 Look At The Actor
+M000091 Point To Player
+M000092 Point To Actor
+M000093 Look At Player
+M000094 Look At Actor
 M000095 Door
 M000096 Open
 M000097 Close
@@ -562,8 +562,8 @@ M0000FK Cordon: abajo
 M0000FL Cordon: arriba
 M0000FM Cordon: descansando
 M0000FN Los resultados mejoran si el player esta desolidificado.
-M0000FO TP. al player
-M0000FP TP. al actor
+M0000FO Teleport to player
+M0000FP Teleport to actor
 M0000FQ No se encontro algun actor.
 M0000FR No se encontro algun vehiculo.
 M0000FS No se encontro algun objeto.
