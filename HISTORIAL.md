@@ -2,18 +2,28 @@
 
 ## **2.1.0** 08/01/2024
 ### **Cambios;**
-  * Skins Custom aumentada a 9999.
+  * CLEO5 requerido en PC.
+  * CLEO4 requerido en Android.
+  * Skins Custom aumentada a 999,999.
   * Los selectores, mostrarar coords solo con el DebugMode ACTIVADO.
+  * Mas CLEO4 en el core, en el corazon del mod para mayor estabilidad.
+  * Mejora de velocidad en los selectores para obtener el mas cercano al jugador.
+  * El modo Debug ya se puede activar desde cualquier apartado.
 
 ### **Agregados;**
   * Selector de nivel de vida antiguo.
   * Skins Named al apartado del Player.
   * Nuevo resaltador de elementos.
-    * Ahora se ve un cuadro rojo sobre el elemento.
+    * Ahora se ve un cuadro rojo sobre el Elemento.
       - En Android suele verse serca de este y no sobre el mismo.
     * Y tenemos un indicador de distacia.
       - Para saber que tan lejos esta el mismo.
     * Disponible para Actores y Vehiculos.
+  * Quitar las ventanas a los Vehiculos.
+    * Esta propiedad se guarda en las Escenas.
+  * Poner alarmas Vehiculos.
+    * Anteriormente solo estaba para PC.
+  * Soporte para guardar estados de neumaticos en las escenas.
 
 ### **Reparaciones;**
   * Crash al cargar escenarios y cambiar animaciones de los actores.
@@ -21,6 +31,8 @@
   * Crash al mover de forma libre al jugador.
   * Crash al cargar escenarios y editar rapido a un actor.
   * Crash al crear un actor luego de crear un vehiculo.
+  * Usar el selector rapido en vehiculos y objetos te mandaba a moverlos.
+  * Las motos se van hacia atras en el movimiento libre.
 
 **Agradecimiento especial a Franelo_BD, Aleegk y General Abigail 👏**
 
